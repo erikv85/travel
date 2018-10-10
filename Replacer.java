@@ -1,6 +1,3 @@
-import java.util.regex.Matcher;
-import java.util.regex.Pattern;
-
 public class Replacer {
 	public static void main(String[] args) {
 		final String in = "key1 val1 key2 \"val 2\"";
